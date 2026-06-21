@@ -8,19 +8,19 @@ fraud detection, LLM-powered screening, and the governance that makes leadership
 I'm the HR AI subject matter expert at a global cybersecurity software company, where I've
 led the HR team's AI adoption end to end, from pitching the tooling to building live systems:
 
-🔍 **[IDV Fraud Detection](https://github.com/builtbybianca/hr-idv-fraud-detection)** —
+🔍 **[IDV Fraud Detection](https://github.com/builtbybianca/hr-idv-fraud-detection)** :
 EXIF metadata analysis that flags manipulated identity documents in onboarding. Piloted in production.
 
-📄 **[AI Resume Screener](https://github.com/builtbybianca/ai-resume-screener)** —
+📄 **[AI Resume Screener](https://github.com/builtbybianca/ai-resume-screener)** :
 Python and Claude API screening with structured rubrics, bias guardrails, and human-in-the-loop design.
 
-✅ **[Resume Integrity Checker](https://github.com/builtbybianca/resume-integrity-checker)** —
+✅ **[Resume Integrity Checker](https://github.com/builtbybianca/resume-integrity-checker)** :
 Flags resume claims for verification with a neutrality guard enforced in code. Verify, don't accuse.
 
-🧰 **[HR AI Prompt Library](https://github.com/builtbybianca/hr-ai-prompt-library)** —
+🧰 **[HR AI Prompt Library](https://github.com/builtbybianca/hr-ai-prompt-library)** :
 Production-tested prompts powering an HR team's daily AI workflows.
 
-🏛️ **[The HR AI Architect](https://github.com/builtbybianca/the-hr-ai-architect)** —
+🏛️ **[The HR AI Architect](https://github.com/builtbybianca/the-hr-ai-architect)** :
 My framework for HR AI adoption: Pains, Prompts, Processes, Frameworks.
 
 ## How I Work
