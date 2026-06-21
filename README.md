@@ -1,6 +1,6 @@
 # Hi, I'm Bianca 👋
 
-**HR Data & AI Analyst | AI Solutions Builder.** I build AI automation for HR Teams from Fraud Detection, LLM-powered Screening, and the Governance that makes Leadership say "Yes!"
+**HR Data & AI Analyst | AI Solutions Builder.** I Build AI Automations for Teams from Fraud Detection, LLM-powered Screening, to Governance that makes Leadership say "Yes!"
 
 ## What I Do
 
@@ -11,7 +11,7 @@ EXIF Metadata Analysis that Flags Manipulated IDs in Onboarding. Piloted in Prod
 - **[AI Resume Screener](https://github.com/builtbybianca/ai-resume-screener)** :
 Python and Claude API Screening with Rubrics, Guardrails, and human-in-the-loop Design.
 - **[Resume Integrity Checker](https://github.com/builtbybianca/resume-integrity-checker)** :
-Flags Resume Red Flags in Recruiting with Neutrality Guard enforced in Code: Verify, don't accuse.
+Flags Resume Red Flags in Recruiting with Neutrality Guard enforced in Code.
 - **[HR AI Prompt Library](https://github.com/builtbybianca/hr-ai-prompt-library)** :
 Production-Tested Prompts powering an HR Team's Daily AI Workflows.
 - **[The HR AI Architect](https://github.com/builtbybianca/the-hr-ai-architect)** :
