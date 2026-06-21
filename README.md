@@ -1,22 +1,21 @@
 # Hi, I'm Bianca 👋
 
-**HR Data & AI Analyst | AI Solutions Builder.** I build AI automation for HR teams:
-fraud detection, LLM-powered screening, and the governance that makes leadership say yes.
+**HR Data & AI Analyst | AI Solutions Builder.** I build AI automation for HR Teams from Fraud Detection, LLM-powered Screening, and the Governance that makes Leadership say "Yes!"
 
 ## What I Do
 
 I'm the HR AI subject matter expert at a Global Cybersecurity Software Company, where I've
-led the HR team's AI Adoption end to end, from pitching the tooling to building live systems:
+led the HR team's AI Adoption end to end, from pitching to deploying:
 - **[IDV Fraud Detection](https://github.com/builtbybianca/hr-idv-fraud-detection)** :
-EXIF metadata analysis that flags manipulated identity documents in onboarding. Piloted in production.
+EXIF Metadata Analysis that Flags Manipulated IDs in Onboarding. Piloted in Production.
 - **[AI Resume Screener](https://github.com/builtbybianca/ai-resume-screener)** :
-Python and Claude API screening with structured rubrics, bias guardrails, and human-in-the-loop design.
+Python and Claude API Screening with Rubrics, Guardrails, and human-in-the-loop Design.
 - **[Resume Integrity Checker](https://github.com/builtbybianca/resume-integrity-checker)** :
-Flags resume claims for verification with a neutrality guard enforced in code. Verify, don't accuse.
+Flags Resume Red Flags in Recruiting with Neutrality Guard enforced in Code: Verify, don't accuse.
 - **[HR AI Prompt Library](https://github.com/builtbybianca/hr-ai-prompt-library)** :
-Production-tested prompts powering an HR team's daily AI workflows.
+Production-Tested Prompts powering an HR Team's Daily AI Workflows.
 - **[The HR AI Architect](https://github.com/builtbybianca/the-hr-ai-architect)** :
-My framework for HR AI adoption: Pains, Prompts, Processes, Frameworks.
+My Framework for HR AI Adoption: Pains, Prompts, Processes, Frameworks.
 
 ## How I Work
 
