@@ -25,10 +25,8 @@ My framework for HR AI adoption: Pains, Prompts, Processes, Frameworks.
 
 ## How I Work
 
-- **Governance-First.** Every system I build ships with human-in-the-loop design, bias
-  guardrails, and documentation a DPO can sign off on.
-- **Adoption-Focused.** I don't just build tools. I build the training programs and change
-  management that get teams actually using them.
+- **Governance-First.** Every system I build ships with human-in-the-loop design, guardrails, and documentation a DPO can sign off on.
+- **Adoption-Focused.** I don't just build tools. I build the training programs.
 - **Production over Portfolio.** These projects run on real workflows with real stakeholders.
 
 ## Background
