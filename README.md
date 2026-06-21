@@ -25,14 +25,16 @@ My framework for HR AI adoption: Pains, Prompts, Processes, Frameworks.
 
 ## How I Work
 
-- **Governance-First.** Every system I build ships with human-in-the-loop design, guardrails, and documentation a DPO can sign off on.
+- **Governance-First.** I build with human-in-the-loop design, guardrails, and documentation a DPO can sign off on.
 - **Adoption-Focused.** I don't just build tools. I build the training programs.
 - **Production over Portfolio.** These projects run on real workflows with real stakeholders.
 
 ## Background
 
 🎖️ U.S. Army Veteran
+
 🎓 B.S. Information Technology, Data Analytics & AI (Spring 2027)
+
 🛠️ Python · Claude API · n8n · HRIS (ADP, Paycom, Rippling) · Data Analytics
 
 ## Connect
