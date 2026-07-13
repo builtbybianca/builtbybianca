@@ -8,7 +8,7 @@ I'm the HR AI subject matter expert at a Global Cybersecurity Software Company, 
 led the HR team's AI Adoption end to end, from pitching to deploying:
 
 - **[HRIS Offboarding Automation](https://github.com/builtbybianca/hris-offboarding-ticket-automation)** :
-Polls HRIS for New Terms, validates, dedupes, creates IT ticket, escalates bad data. Shipped to production.
+Polls HRIS for New Terms, validates, dedupes, creates IT ticket, escalates bad data. Deployed.
 - **[IDV Fraud Detection](https://github.com/builtbybianca/hr-idv-fraud-detection)** :
 EXIF Metadata Analysis that Flags Manipulated IDs in Onboarding. Piloted in Production.
 - **[AI Resume Screener](https://github.com/builtbybianca/ai-resume-screener)** :
