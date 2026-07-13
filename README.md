@@ -6,6 +6,9 @@
 
 I'm the HR AI subject matter expert at a Global Cybersecurity Software Company, where I've
 led the HR team's AI Adoption end to end, from pitching to deploying:
+
+- **[HRIS Offboarding Automation](https://github.com/builtbybianca/hris-offboarding-ticket-automation)** :
+Polls an HRIS for terminations, validates, deduplicates, opens the ticket, escalates bad data to a human. Shipped to production.
 - **[IDV Fraud Detection](https://github.com/builtbybianca/hr-idv-fraud-detection)** :
 EXIF Metadata Analysis that Flags Manipulated IDs in Onboarding. Piloted in Production.
 - **[AI Resume Screener](https://github.com/builtbybianca/ai-resume-screener)** :
@@ -27,7 +30,7 @@ My Framework for HR AI Adoption: Pains, Prompts, Processes, Frameworks.
 
 - U.S. Army Veteran
 - B.S. Information Technology, Data Analytics & AI (Spring 2027)
-- Python · Claude API · n8n · HRIS (ADP, Paycom, Rippling) · Data Analytics
+- Python · Claude API · n8n · HRIS (ADP, Paycom, Rippling) · Data Analytics · MCP
 
 ## Connect
 
