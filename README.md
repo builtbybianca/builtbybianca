@@ -1,6 +1,6 @@
 # Hi, I'm Bianca 👋
 
-**AI Solutions Partner.** I Build AI Automations for Teams from Fraud Detection, LLM-powered Screening, to Governance that makes Leadership say "Yes!"
+**AI Solutions Partner** I Build AI Automations for Teams from Fraud Detection, LLM-powered Screening, to Governance that makes Leadership say "Yes!"
 
 ## What I Do
 
